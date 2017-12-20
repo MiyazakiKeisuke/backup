@@ -1,6 +1,6 @@
 package com.internousdev.webproj2.action;
 
-import com.internousdev.webpro.dao.HelloStrutsDAO;
+import com.internousdev.webproj2.dao.HelloStrutsDAO;
 import com.opensymphony.xwork2.ActionSupport;
 
 public class HelloStrutsAction extends ActionSupport{
